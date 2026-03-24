@@ -372,7 +372,7 @@ export default function Home() {
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="text-center">
                 <div className="text-[72px] font-bold text-white/10">DLTC</div>
-                <div className="text-white/40 text-[14px] mt-2">dltcertification.io</div>
+                <div className="text-white/40 text-[14px] mt-2">Dar Blockchain Academy</div>
               </div>
             </div>
           </div>

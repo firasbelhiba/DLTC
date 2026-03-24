@@ -384,7 +384,7 @@ export default function Home() {
         <div className="max-w-[1400px] mx-auto px-8">
           <div className="grid md:grid-cols-4 gap-12 mb-16">
             <div>
-              <Logo light />
+              <Logo />
               <p className="text-[#666] text-[14px] mt-5 leading-[1.6]">
                 Gathering a new generation of change-makers through Blockchain.
               </p>
